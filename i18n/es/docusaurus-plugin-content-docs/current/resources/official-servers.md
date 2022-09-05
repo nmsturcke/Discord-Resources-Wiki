@@ -6,13 +6,6 @@ description: Servidores oficiales administrados por Discord.
 
 # Servidores oficiales de Discord
 
-## Discord Testers
-
-> **Descripción:** ¡El lugar oficial para reportar errores de Discord! ¡Ayuda a encontrar errores, habla con otros y sé parte de la comunidad de cazadores de bugs!   <br/>
-**Enlace:** [Discord Testers](https://discord.gg/discord-testers)
-
-@gg/discord-testers
-
 ## Discord Developers
 
 > **Descripción:** ¡El lugar oficial para discutir la API y los SDK de Discord con los desarrolladores de la comunidad y el personal de Discord por igual!   <br/>

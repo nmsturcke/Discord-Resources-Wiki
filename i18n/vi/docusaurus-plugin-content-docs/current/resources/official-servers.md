@@ -6,13 +6,6 @@ description: Các máy chủ chính thức của Discord
 
 # Máy chủ chính thức
 
-## Discord Testers 
-> __Mô tả:__ Nơi chính thức để thông báo các lỗi! Giúp tìm lỗi, nói chuyện với mọi người và trở thành một phần trong cộng đồng người dùng thử!!   <br/>
-__Link:__ [Discord Testers](https://discord.gg/discord-testers)
-
-@gg/discord-testers
-
-
 ## Discord Developers
 > __Mô tả:__ Nơi chính thức để thảo luận về API và SDK của Discord với lập trình viên của cộng đồng và nhân viên Discord!   <br/>
 __Link:__ [Discord Developers](https://discord.gg/discord-developers)
